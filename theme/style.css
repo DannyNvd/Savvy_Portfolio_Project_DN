@@ -1,0 +1,26 @@
+h1 {
+    color: #134c8a;
+    font-size: 3em;
+  }
+h2 {
+    color: #134c8a;
+    font-size: 2em;
+  }
+h3 {
+    color: black;
+    font-size: 1em;
+    font-style: italic;
+}
+img {
+    width: 900px;
+  }
+.backdrop {
+    background-color: green;
+  }
+
+.midwidth{
+    width: 500px;
+  }
+#barf {
+    background-color: yellow;
+  }
